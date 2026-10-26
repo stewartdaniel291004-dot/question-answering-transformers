@@ -66,7 +66,7 @@ Built and deployed a web interface where users can enter a context passage and a
 - Model confidence display
 - Input validation
 
-**Live Demo:** [](https://question-answering-transformers-34vbkgbyyrbdoc97kgagsa.streamlit.app/)]
+Live Demo: [[Paste your Streamlit app URL here](https://question-answering-transformers-34vbkgbyyrbdoc97kgagsa.streamlit.app/)]
 
 **Technologies:** Python, Hugging Face Transformers, DistilBERT, Streamlit, PyTorch.
 
